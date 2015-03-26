@@ -160,7 +160,7 @@
     {
         "class": "tab_label",
         "fade": true,
-        "fg": [133, 132, 174],
+        "fg": [133, 132, 174, 140],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 0],
         "font.italic": false,
@@ -500,7 +500,7 @@
     {
         "class": "label_control",
         "parents": [{"class": "status_bar"}],
-        "color": [133, 132, 174],
+        "color": [133, 132, 174, 140],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 0]
     },
@@ -676,18 +676,18 @@
     // Sidebar folder closed
     {
         "class": "disclosure_button_control",
-        "settings": ["piatto_folder_icons"],
+        "settings": ["hero_folder_icons"],
         "layer0.texture": "Theme - Hero/Hero Dark/folder-closed.png"
     },
     {
         "class": "disclosure_button_control",
-        "settings": ["piatto_folder_icons"],
+        "settings": ["hero_folder_icons"],
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
         "layer0.texture": "Theme - Hero/Hero Dark/folder-closed-hover.png"
     },
     {
         "class": "disclosure_button_control",
-        "settings": ["piatto_folder_icons"],
+        "settings": ["hero_folder_icons"],
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
         "layer0.texture": "Theme - Hero/Hero Dark/folder-closed-selected.png"
     },
@@ -712,20 +712,20 @@
     // Sidebar folder open
     {
         "class": "disclosure_button_control",
-        "settings": ["piatto_folder_icons"],
+        "settings": ["hero_folder_icons"],
         "attributes": ["expanded"],
         "layer0.texture": "Theme - Hero/Hero Dark/folder-open.png"
     },
     {
         "class": "disclosure_button_control",
-        "settings": ["piatto_folder_icons"],
+        "settings": ["hero_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row", "attributes": ["hover"]}],
         "layer0.texture": "Theme - Hero/Hero Dark/folder-open-hover.png"
     },
     {
         "class": "disclosure_button_control",
-        "settings": ["piatto_folder_icons"],
+        "settings": ["hero_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
         "layer0.texture": "Theme - Hero/Hero Dark/folder-open-selected.png"
