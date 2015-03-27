@@ -15,10 +15,10 @@ Also included is a "Hero Dark Eighties" theme based off [Base16's Ocean scheme](
 ![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark4.png)
 
 ### Hero Dark Eighties
-![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties1.png)
-![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties2.png)
-![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties3.png)
-![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties4.png)
+![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties1.jpg)
+![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties2.jpg)
+![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties3.jpg)
+![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties4.jpg)
 
 ## Installation
 
