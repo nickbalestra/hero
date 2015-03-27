@@ -52,7 +52,7 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
     }
 
 
-### Color Scheme
+### Color Schemes
 
 ```javascript
 {
