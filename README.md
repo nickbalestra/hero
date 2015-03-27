@@ -2,15 +2,23 @@
 
  Hero is a very simple flat style theme for Sublime Text 3.
 
-Based on Piatto Theme by Samuel Rafo [https://github.com/samuelrafo/piatto](https://github.com/samuelrafo/piatto) and on the Heroku Color Scheme by Rubens Stulzer [https://github.com/stulzer/heroku-colorscheme](https://github.com/stulzer/heroku-colorscheme)
+Based on Piatto Theme by Samuel Rafo [https://github.com/samuelrafo/piatto](https://github.com/samuelrafo/piatto) and on the Heroku Color Scheme by Rubens Stulzer [https://github.com/stulzer/heroku-colorscheme](https://github.com/stulzer/heroku-colorscheme).
+
+Also included is a "Hero Dark Eighties" theme based off [Base16's Ocean scheme](http://chriskempson.github.io/base16/#ocean).
 
 ## Design
 
+### Hero Dark
 ![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark1.png)
 ![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark2.png)
 ![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark3.png)
 ![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark4.png)
 
+### Hero Dark Eighties
+![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties1.png)
+![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties2.png)
+![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties3.png)
+![Hero Dark Theme](https://raw.github.com/aaronbushnell/Hero/master/images/hero_dark_eighties4.png)
 
 ## Installation
 
@@ -49,5 +57,11 @@ To configure Sublime Text to use the theme, follow the instructions below for yo
 ```javascript
 {
     "color_scheme": "Packages/Theme - Hero/Hero Dark.tmTheme"
+}
+```
+
+```javascript
+{
+    "color_scheme": "Packages/Theme - Hero/Hero Dark Eighties.tmTheme"
 }
 ```
