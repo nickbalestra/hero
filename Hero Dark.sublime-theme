@@ -160,7 +160,7 @@
     {
         "class": "tab_label",
         "fade": true,
-        "fg": [133, 132, 174, 140],
+        "fg": [133, 132, 174, 250],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 0],
         "font.italic": false,
@@ -374,7 +374,7 @@
 
     {
         "class": "sheet_container_control",
-        "layer0.tint": [42, 43, 46],
+        "layer0.tint": [37, 38, 52],
         "layer0.opacity": 1.0
     },
 

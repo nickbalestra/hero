@@ -16,15 +16,21 @@
                 <key>foreground</key>
                 <string>#8584ae</string>
                 <key>invisibles</key>
-                <string>#3b3a32</string>
+                <string>#1b1a24</string>
                 <key>lineHighlight</key>
                 <string>#252634</string>
                 <key>selection</key>
-                <string>#fff</string>
+                <string>#4C4F54</string>
+                <key>selectionForeground</key>
+                <string>#f7f7f7</string>
                 <key>findHighlight</key>
                 <string>#ffea00</string>
+                <key>guide</key>
+                <string>#262633</string>
                 <key>activeGuide</key>
-                <string>#9d550fb0</string>
+                <string>#ffea00</string>
+                <key>stackGuide</key>
+                <string>#252634</string>
                 <key>bracketsForeground</key>
                 <string>#7873ae</string>
                 <key>bracketsOptions</key>
