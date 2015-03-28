@@ -515,12 +515,12 @@
         "layer0.texture": "Theme - Hero/Hero Dark/sidebar-bg.png",
         "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 2, 2, 2],
-        "content_margin": [0, 2, 1, 2]
+        "content_margin": [0, 2, 0, 2]
     },
     // Sidebar tree
     {
         "class": "sidebar_tree",
-        "row_padding": [10, 5],
+        "row_padding": [10, 8],
         "indent": 15,
         "indent_offset": 15,
         "indent_top_level": false
@@ -528,14 +528,15 @@
     // Sidebar rows
     {
         "class": "tree_row",
-        "layer0.texture": "Theme - Hero/Hero Dark/sidebar-row-selected.png",
-        "layer0.opacity": 0.0,
+        "layer0.texture": "Theme - Hero/Hero Dark/sidebar-row.png",
+        "layer0.opacity": 1.0,
         "layer0.inner_margin": [2, 2, 2, 2]
     },
     // Sidebar row selected
     {
         "class": "tree_row",
         "attributes": ["selected"],
+        "layer0.texture": "Theme - Hero/Hero Dark/sidebar-row-selected.png",
         "layer0.opacity": 1.0
     },
     // Sidebar heading
@@ -591,7 +592,7 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "color": [255, 255, 255],
+        "color": [11, 175, 237],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 0],
         "font.bold": true
