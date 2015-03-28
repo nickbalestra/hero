@@ -5,6 +5,7 @@
 ## Design
 
 ### Hero Dark
+![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark.png)
 ![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark1.png)
 ![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark2.png)
 ![Hero Dark Theme](https://raw.github.com/nickbalestra/Hero/master/images/hero_dark3.png)
