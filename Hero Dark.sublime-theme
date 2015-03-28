@@ -832,7 +832,7 @@
     {
         "class": "quick_panel",
         "row_padding": [5, 5],
-        "layer0.tint": [22, 2, 2],
+        "layer0.tint": [27, 25, 36],
         "layer0.opacity": 1.0
     },
     {
@@ -849,7 +849,7 @@
     {
         "class": "quick_panel_label",
         "fg": [210, 210, 210, 210],
-        "match_fg": [11, 175, 237, 255],
+        "match_fg": [210, 210, 210, 210],
         "selected_fg": [27, 26, 36, 255],
         "selected_match_fg": [27, 26, 36, 255]
     },
