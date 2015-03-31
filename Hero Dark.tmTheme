@@ -213,19 +213,6 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>Tag attribute</string>
-            <key>scope</key>
-            <string>entity.other.attribute-name</string>
-            <key>settings</key>
-            <dict>
-                <key>fontStyle</key>
-                <string></string>
-                <key>foreground</key>
-                <string>#7873ae</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>name</key>
             <string>Library function</string>
             <key>scope</key>
             <string>support.function</string>
@@ -641,7 +628,7 @@
             <key>name</key>
             <string>CSS Class</string>
             <key>scope</key>
-            <string>entity.other.attribute-name.class.css</string>
+            <string>entity.other.attribute-name.class.css, entity.other.attribute-name</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
