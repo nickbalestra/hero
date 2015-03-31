@@ -626,7 +626,7 @@
         </dict>
         <dict>
             <key>name</key>
-            <string>CSS Class</string>
+            <string>CSS Class and ID</string>
             <key>scope</key>
             <string>entity.other.attribute-name.class.css, entity.other.attribute-name</string>
             <key>settings</key>
